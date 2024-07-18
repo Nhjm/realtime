@@ -1,0 +1,11 @@
+1. setup pusher trong env
+2. tạo user
+3.
+composer require laravel/ui
+php artisan ui bootstrap --auth
+4.
+composer require pusher/pusher-php-server
+5.
+npm install --save-dev laravel-echo pusher-js
+6.
+npm run dev
